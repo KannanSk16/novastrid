@@ -32,7 +32,12 @@ Make sure you have the following installed:
 1. *Clone the repository:*
 
    ```bash
-   git clone https://github.com/YOUR_USERNAME/task-manager.git
+  git clone https://github.com/KannanSk16/novastrid.git
+
+
+### `npm install`
+Installs the required files
+
 ### `npm start`
 
 Runs the app in the development mode.\
